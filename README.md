@@ -18,9 +18,9 @@ I could even go through the different programming languages I have learned throu
 
 As of now, there are a few major things I need to complete in order to feel fulfilled in life.
 - [x] Create an idea of a CS Project that I can be satisfied with.
-- [] Graduate university and get my degree in CS.
-- [] Get a good job that I will be happy with once I finish uni.
+- [ ] Graduate university and get my degree in CS.
+- [ ] Get a good job that I will be happy with once I finish uni.
 > [!NOTE]
 > When you visit my webpage, please read through it to see if there is anything for you to take away from what I think is important to keeping a growth mindset.
 
-![With all of this in mind, I hope you enjoy reading what I put down in my web page on having a growth mindset.]()
+![With all of this in mind, I hope you enjoy reading what I put down in my web page on having a growth mindset.](https://images.pexels.com/photos/108941/pexels-photo-108941.jpeg?auto=compress&cs=tinysrgb&w=1200)
